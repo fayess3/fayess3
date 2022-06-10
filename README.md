@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fayess3
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... swift/laravel/api 
-- 💞️ I’m looking to collaborate on ... ios app
+- 🌱 I’m currently learning ... swift/laravel/python/js 
+- 💞️ I’m looking to collaborate on ... ios app node react 
 - 📫 How to reach me ...
 
 <!---
